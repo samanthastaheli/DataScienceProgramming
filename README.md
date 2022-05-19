@@ -1,2 +1,2 @@
-# ProgrammingWithDataStructures
-Programming with Data Structures (CSE 250)
+# Data Science Programming
+Repo for my work done in Data Science Programming (CSE 250).
